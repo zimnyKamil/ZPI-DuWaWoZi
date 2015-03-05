@@ -15,13 +15,14 @@ public class DudiPala
 		wielkoscPalki--;	
 	}
 	
-	private void Zimny_ciota(){
+	private void Woloszyk_ciota(){
 		boolean czyMaPalke=false;
+		int palka = -2;
+		return;
 	}
 	
-	private void Zimny_ciota(){
-		boolean czyMaPalke=false;
-	}
+	
+	
 	
 	private static void main(String[] argrs){
 		
