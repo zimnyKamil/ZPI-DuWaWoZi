@@ -27,7 +27,8 @@ public class LogikaHill{
 		double[][] kTab = new double[dlBloku][dlBloku];
 		
 		for(int i=0;i<dlBloku;i++){
-			for(int j=0;j<dlBloku;j++){
+			for(int j=0;j<dlBloku;j++)
+			{
 				kTab[i][j] = alfabet.indexOf(klucz.charAt(indKlucz));
 				indKlucz++;
 			}

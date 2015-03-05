@@ -12,6 +12,6 @@ public class DudiPala
 	
 	private void zmniejszPalke()
 	{
-		wielkoscPalki--;
+		wielkoscPalki--;	
 	}
 }
