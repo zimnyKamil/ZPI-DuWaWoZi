@@ -14,4 +14,8 @@ public class DudiPala
 	{
 		wielkoscPalki--;
 	}
+	
+	private void Zimny_ciota(){
+		boolean czyMaPalke=false;
+	}
 }
