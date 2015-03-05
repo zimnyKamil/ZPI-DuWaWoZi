@@ -18,4 +18,8 @@ public class DudiPala
 	private void Zimny_ciota(){
 		boolean czyMaPalke=false;
 	}
+	
+	private static void main(String[] argrs){
+		
+	}
 }
