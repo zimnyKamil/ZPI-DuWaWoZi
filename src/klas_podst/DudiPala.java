@@ -22,8 +22,6 @@ public class DudiPala
 	}
 	
 	
-	
-	
 	private static void main(String[] argrs){
 		
 	}
