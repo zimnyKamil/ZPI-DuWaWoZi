@@ -23,6 +23,6 @@ public class DudiPala
 	
 	
 	private static void main(String[] argrs){
-		
+		String cos_zmienilem;
 	}
 }
