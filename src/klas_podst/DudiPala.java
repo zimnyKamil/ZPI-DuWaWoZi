@@ -7,5 +7,11 @@ public class DudiPala
 	public DudiPala()
 	{
 		wielkoscPalki = 0;
+		zmniejszPalke();
+	}
+	
+	private void zmniejszPalke()
+	{
+		wielkoscPalki--;
 	}
 }
